@@ -2,7 +2,8 @@
 public class ClassA {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String test2 = "test2";
+		System.out.println(test2);
 
 	}
 
